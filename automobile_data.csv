@@ -26,7 +26,7 @@ dodge,gas,two,hatchback,fwd,front,93.7,157.3,63.8,50.8,2128,ohc,four,98,mpfi,7.6
 dodge,gas,four,hatchback,fwd,front,93.7,157.3,63.8,50.6,1967,ohc,four,90,2bbl,9.4,68,31,38,6229
 dodge,gas,four,sedan,fwd,front,93.7,157.3,63.8,50.6,1989,ohc,four,90,2bbl,9.4,68,31,38,6692
 dodge,gas,four,sedan,fwd,front,93.7,157.3,63.8,50.6,1989,ohc,four,90,2bbl,9.4,68,31,38,7609
-dodge,gas,,sedan,fwd,front,93.7,157.3,63.8,50.6,2191,ohc,four,98,mpfi,7.6,102,24,30,8558
+dodge,gas,two,sedan,fwd,front,93.7,157.3,63.8,50.6,2191,ohc,four,98,mpfi,7.6,102,24,30,8558
 dodge,gas,four,wagon,fwd,front,103.3,174.6,64.6,59.8,2535,ohc,four,122,2bbl,8.5,88,24,30,8921
 dodge,gas,two,hatchback,fwd,front,95.9,173.2,66.3,50.2,2811,ohc,four,156,mfi,7,145,19,24,12964
 honda,gas,two,hatchback,fwd,front,86.6,144.6,63.9,50.8,1713,ohc,four,92,1bbl,9.6,58,49,54,6479
@@ -62,7 +62,7 @@ mazda,gas,two,hatchback,fwd,front,98.8,177.8,66.5,53.7,2385,ohc,four,122,2bbl,8.
 mazda,gas,four,sedan,fwd,front,98.8,177.8,66.5,55.5,2410,ohc,four,122,2bbl,8.6,84,26,32,8495
 mazda,gas,two,hatchback,fwd,front,98.8,177.8,66.5,53.7,2385,ohc,four,122,2bbl,8.6,84,26,32,10595
 mazda,gas,four,sedan,fwd,front,98.8,177.8,66.5,55.5,2410,ohc,four,122,2bbl,8.6,84,26,32,10245
-mazda,diesel,,sedan,fwd,front,98.8,177.8,66.5,55.5,2443,ohc,four,122,idi,22.7,64,36,42,10795
+mazda,diesel,two,sedan,fwd,front,98.8,177.8,66.5,55.5,2443,ohc,four,122,idi,22.7,64,36,42,10795
 mazda,gas,four,hatchback,fwd,front,98.8,177.8,66.5,55.5,2425,ohc,four,122,2bbl,8.6,84,26,32,11245
 mazda,gas,four,sedan,rwd,front,104.9,175,66.1,54.4,2670,ohc,four,140,mpfi,8,120,19,27,18280
 mazda,diesel,four,sedan,rwd,front,104.9,175,66.1,54.4,2700,ohc,four,134,idi,22,72,31,39,18344
